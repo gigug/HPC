@@ -1,6 +1,7 @@
-* README *
-Software Stack:
+First Assignement for the Foundaments of High Performance Computing
 
+
+Software Stack:
 Generation of data:
 pi.c -> pi.x (gcc)
 mpi_pi.c -> mpi_pi.x (mpicc)
